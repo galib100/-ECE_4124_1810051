@@ -1,4 +1,4 @@
-###  Lab reports [Roll: 1810051] ###
+ ###  :page_facing_up: Lab reports [Roll: 1810051] ###
  # Course name: Digital Signal Processing Sessional
 ## Course code: ECE - 4124
 ### Submitted to:
@@ -8,7 +8,7 @@ Lecturer,
 [^1]:
 Department of Electrical and Computer Engineering 
 [^1]:
-Rajshahi University of Engineering and Technology.
+:office: Rajshahi University of Engineering and Technology.
 | Experiment No  | Experiment Name |
 | ------------- | ------------- |
 |1| i) Plot unit step, unit ramp, unit impulse signal using MATLAB. ii) Plot discrete signal using MATLAB. iii) Plot two different discrete signal and show their addition and subtraction using MATLAB. iv) Plot two different continuous signal using MATALB |
